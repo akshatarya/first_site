@@ -1,0 +1,28 @@
+body{
+    background-color: #e75100;
+    color: black;
+}
+
+h1{
+    font-size: 60pt;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+h2, h3{
+    font-size: 40pt;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(255, 255, 255);
+}
+
+p{
+    line-height: normal;
+}
+
+img{
+    border: 5px solid;
+    border-color: blue;
+    padding: 10px;
+    margin: 20px;
+    border-top-right-radius: 30px;
+}

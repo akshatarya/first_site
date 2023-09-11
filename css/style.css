@@ -26,3 +26,31 @@ img{
     margin: 20px;
     border-top-right-radius: 30px;
 }
+
+li{
+    display: inline-block;
+    margin-left: 50px solid;
+}
+
+nav{
+    border: 2px solid black;
+    text-align: center;
+    padding: 25px;
+    color: white;
+}
+
+nav a{
+    background-color: black;
+    padding: 5px;
+    margin: 20px;
+}
+
+#skip{
+    color: blue;
+    padding: 25px;
+}
+
+.thumbnail{
+    padding: 20px;
+    
+}
